@@ -25,7 +25,7 @@ An agentic application that leverages multiple Large Language Model providers (O
 
 1. Clone this repository:
    ```bash
-   https://github.com/Mithilesh-Lala/Multi-Model-Agnetic-Travel-Planner.git
+   https://github.com/Mithilesh-Lala/Multi-LLM-Agentic-Travel-Planner.git
    cd to project directory
    ```
 
